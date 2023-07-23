@@ -1,4 +1,4 @@
-package koreatlwls.mavericks_mvi_compose
+package koreatlwls.mavericks_mvi_compose.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
